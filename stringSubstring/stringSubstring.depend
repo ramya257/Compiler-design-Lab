@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484721499 source:c:\users\student\desktop\stringsubstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

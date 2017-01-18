@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484717104 source:c:\users\student\desktop\stringsuffixes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
