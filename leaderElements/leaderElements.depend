@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485880628 source:/home/ramya/Documents/coding/leaderElements/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
