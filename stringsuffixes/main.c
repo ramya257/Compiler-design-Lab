@@ -19,6 +19,6 @@ int main()
          n++;
     }
     printf("$");
-    printf("total no of prefix are :%d",n);
+    printf("total no of suffixes are :%d",n);
     return 0;
 }
